@@ -1,1 +1,14 @@
-# Define the variable board below.
+row =[" "," "," "]
+#position 1: Left
+row[0] = "X
+
+
+
+   |   |
+___________
+   |   |
+___________
+
+   |    |
+
+   
